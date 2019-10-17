@@ -20,6 +20,8 @@ author: eugenepark
 image: /thumbnail-jumbo.png
 twitter:
   username: eugenepark7676
+github:
+  owner_url: parkeugene  
 
 plugins:
   - jekyll-target-blank
@@ -27,4 +29,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['about', 'contact']
+header_page_refs: ['about']
